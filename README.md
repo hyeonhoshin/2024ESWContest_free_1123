@@ -10,7 +10,7 @@
 ### 준비물 (권장)
 - **64GB** 이상의 Micro SD Card
 - Raspberry Pi 4, **RAM 8GB**
-- [페달키퍼 라즈베리파이 이미지](https://drive.google.com/file/d/1sKXNzsizAHgauqctyeqQG7Tr2sQhtBi8/view?usp=drive_link)
+- [페달키퍼 라즈베리파이 이미지](https://drive.google.com/file/d/1iE_3VUruC7ak325c0XXECpFUxICQPox2/view?usp=sharing)
 
 ### 소개
 이 저장소에서는 라즈베리파이의 골치아픈 Dependency 설치 문제를 해결하기 위해, 모든 것이 미리 세팅된 라즈베리파이 SD 카드 이미지 파일을 제공합니다.
